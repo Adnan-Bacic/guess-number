@@ -1,2 +1,2 @@
-# computer-guess-number
-computer-guess-number
+# guess-number
+guess-number
